@@ -1,7 +1,9 @@
 ## Hi there,I'm Divyansh! 👋 
 Currently learning Python Programming, and excited to delve in the world of technology.
 ## Let's connect!
-Email: divyanshchauhan1352@gmail.com
+Email: [divyanshchauhan1352@gmail.com](divyanshchauhan1352@gmail.com)
+Linkedin: [Divyansh Chauhan](https://www.linkedin.com/in/divyansh-chauhan-125415312/)
+
 <!--
 **Divyansh-109/Divyansh-109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
