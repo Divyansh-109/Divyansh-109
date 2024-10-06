@@ -2,6 +2,7 @@
 Currently learning Python Programming, and excited to delve in the world of technology.
 ## Let's connect!
 Email: [divyanshchauhan1352@gmail.com](divyanshchauhan1352@gmail.com)
+
 Linkedin: [Divyansh Chauhan](https://www.linkedin.com/in/divyansh-chauhan-125415312/)
 
 <!--
